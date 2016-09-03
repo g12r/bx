@@ -88,6 +88,7 @@ node default {
     target => $boxen::config::repodir
   }
 
-  include java17
-  include java18
+  # include java17
+  # include java18
+  java::version { '1.7': }
 }
