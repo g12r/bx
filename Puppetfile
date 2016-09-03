@@ -68,7 +68,6 @@ github "xquartz",     "1.2.1"
 
 github "java", "1.7"
 # github "java", "1.8"
-# github "java", "1.8"
 
-# github "tmux"
+github "tmux"
 
