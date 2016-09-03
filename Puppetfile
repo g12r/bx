@@ -66,7 +66,8 @@ github "xquartz",     "1.2.1"
 # github "redis",       "3.1.0"
 # github "sysctl",      "1.0.1"
 
-github "java", "1.8"
+github "java17", "1.7"
+github "java18", "1.8"
 # github "java", "1.8"
 
 # github "tmux"

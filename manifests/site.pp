@@ -88,5 +88,6 @@ node default {
     target => $boxen::config::repodir
   }
 
-  include java
+  include java17
+  include java18
 }
