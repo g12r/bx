@@ -90,5 +90,5 @@ node default {
 
   # include java17
   # include java18
-  # java::version { '1.7':   }
+  java::version { '1.8':   }
 }
